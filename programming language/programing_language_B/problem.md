@@ -1,0 +1,6 @@
+- racket中，function确实有多个argument.
+- 为什么racket中匿名函数可以调用递归？
+- local bindings? scope的区别？
+- 避免重复计算：thunk, memoization
+- stream
+- Macros

@@ -1,0 +1,14 @@
+# emacs swap file
+*.sml~
+
+# racket env
+*.rkt~
+\#*
+compiled
+
+# instructions
+*.pdf
+*.html
+
+# OSX
+.DS_Store
